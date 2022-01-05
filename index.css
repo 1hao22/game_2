@@ -1,0 +1,30 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1194px;
+height: 834px;
+}
+.leave{
+    position: absolute;
+    left: 1068px;
+    top: 74px;    
+}
+p{
+    position: absolute;
+    top: 235px;
+    left: 850px;
+    font-size: 45px;
+    line-height: 50px;
+    width: 300px;
+    color: rgb(60, 60, 60);
+}
+.juki{
+    position: absolute;
+    left: 549px;
+    top: 492.28px;
+}
